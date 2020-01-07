@@ -1,10 +1,15 @@
 .svn
 .tmp
 .download
-output
 .*.swp
 .*.swo
 /**/y.output
 /**/*.log
 profile.out
 coverage.txt
+
+output/bin
+output/log
+**/.idea/
+**/_book/
+
